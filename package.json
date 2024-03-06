@@ -1,6 +1,6 @@
 {
 	"name": "faucet",
-	"version": "0.0.4",
+	"version": "1.0.1",
 	"description": "human-readable TAP summarizer",
 	"main": "index.js",
 	"exports": {
@@ -44,9 +44,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/tape-testing/faucet.git"
+		"url": "git@github.com:reza0982/faucet.git"
 	},
-	"homepage": "https://github.com/tape-testing/faucet",
+	"homepage": "https://github.com/reza0982/faucet.git",
 	"keywords": [
 		"tap",
 		"human",
@@ -56,12 +56,12 @@
 		"pretty"
 	],
 	"author": {
-		"name": "James Halliday",
+		"name": "zetwonkru",
 		"email": "mail@substack.net",
 		"url": "http://substack.net"
 	},
 	"funding": {
-		"url": "https://github.com/sponsors/ljharb"
+		"url": "https://github.com/sponsors/reza0982"
 	},
 	"license": "MIT",
 	"devDependencies": {
