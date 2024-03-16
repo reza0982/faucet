@@ -72,23 +72,6 @@
 		"in-publish": "^2.0.1",
 		"npmignore": "^0.3.1",
 		"safe-publish-latest": "^2.0.0"
-	},
-	"auto-changelog": {
-		"output": "CHANGELOG.md",
-		"template": "keepachangelog",
-		"unreleased": false,
-		"commitLimit": false,
-		"backfillLimit": false,
-		"hideCredit": true
-	},
-	"publishConfig": {
-		"ignore": [
-			".github/workflows",
-			"images/",
-			"example/"
-		]
-	},
-	"engines": {
-		"node": ">= 0.10"
+	
 	}
 }
